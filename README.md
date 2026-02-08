@@ -1,6 +1,7 @@
 # Try Out Development Containers: Node.js
 
-[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode-remote-try-node)
+[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode-remote-try-node)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fubiquitous-invention.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fubiquitous-invention?ref=badge_shield)
+
 
 A **development container** is a running container with a well-defined tool/runtime stack and its prerequisites. You can try out development containers with **[GitHub Codespaces](https://github.com/features/codespaces)** or **[Visual Studio Code Dev Containers](https://aka.ms/vscode-remote/containers)**.
 
@@ -99,3 +100,6 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 Copyright © Microsoft Corporation All rights reserved.<br />
 Licensed under the MIT License. See LICENSE in the project root for license information.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fubiquitous-invention.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fubiquitous-invention?ref=badge_large)
